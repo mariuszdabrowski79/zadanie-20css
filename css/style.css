@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    background-color: rgb(105, 39, 167);
+}
+#pierwszy {
+    background-color: rgb(230, 147, 39);
+}
+h2 {
+    background-color: rgb(40, 173, 173);
+}
+#drugi {
+    background-color: rgb(218, 13, 13);
+}
+#l_1 {
+    color: blue;
+}
+#l_2 {
+    color: brown;
+}
+#l_3 {
+    color: rgb(223, 16, 119);
+}
+#l_4 {
+    color: red;
+}
+#l_5 {
+    color: yellow;
+}
